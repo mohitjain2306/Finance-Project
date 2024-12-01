@@ -1,4 +1,4 @@
-Comprehensive Bank Loan Analysis and Prediction
+**Comprehensive Bank Loan Analysis and Prediction**
 This repository demonstrates a data-driven approach to analyzing and predicting bank loan outcomes. Using SQL for data processing, Power BI for visualization, and machine learning for predictive modeling, this project bridges actionable insights and decision-making efficiency.
 
 Highlights
