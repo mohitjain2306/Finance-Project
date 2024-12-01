@@ -15,5 +15,7 @@ Achieved a high 97% accuracy, offering reliable predictions.
 3. Technical Stack
 
 **SQL:** Handled data preparation and KPI extraction.
+
 **Power BI:** Designed detailed and interactive dashboards.
+
 **Python:** Leveraged for predictive modeling and data assessment.
